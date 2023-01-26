@@ -1,0 +1,15 @@
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\bin\Debug\net6.0\example006_Giri.exe
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\bin\Debug\net6.0\example006_Giri.deps.json
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\bin\Debug\net6.0\example006_Giri.runtimeconfig.json
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\bin\Debug\net6.0\example006_Giri.dll
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\bin\Debug\net6.0\example006_Giri.pdb
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.csproj.AssemblyReference.cache
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.AssemblyInfoInputs.cache
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.AssemblyInfo.cs
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.dll
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\refint\example006_Giri.dll
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.pdb
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\example006_Giri.genruntimeconfig.cache
+C:\Users\spiri\Desktop\examples\examples\example006_Giri\obj\Debug\net6.0\ref\example006_Giri.dll
